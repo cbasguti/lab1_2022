@@ -1,6 +1,6 @@
-lab1_2022-ear/target/
-lab1_2022-ejb/target/
-lab1_2022-web/target/
+lab1_2022-ear/target/*
+lab1_2022-ejb/target/*
+lab1_2022-web/target/*
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
