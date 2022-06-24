@@ -1,0 +1,56 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/sebas/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.7.0/org.eclipse.persistence.antlr-2.7.0.jar;C:/Users/sebas/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/2.7.0/org.eclipse.persistence.asm-2.7.0.jar;C:/Users/sebas/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.0/org.eclipse.persistence.core-2.7.0.jar;C:/Users/sebas/.m2/repository/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar;C:/Users/sebas/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.dbws/2.7.0/org.eclipse.persistence.dbws-2.7.0.jar;C:/Users/sebas/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa/2.7.0/org.eclipse.persistence.jpa-2.7.0.jar;C:/Users/sebas/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.7.0/org.eclipse.persistence.jpa.jpql-2.7.0.jar;C:/Users/sebas/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.7.0/org.eclipse.persistence.jpa.modelgen.processor-2.7.0.jar;C:/Users/sebas/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.0/org.eclipse.persistence.moxy-2.7.0.jar;C:/Users/sebas/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar;C:/Users/sebas/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.oracle/2.7.0/org.eclipse.persistence.oracle-2.7.0.jar;C:/Users/sebas/.m2/repository/org/eclipse/persistence/javax.persistence/2.2.0/javax.persistence-2.2.0.jar;C:/Users/sebas/.m2/repository/javax/javaee-api/7.0/javaee-api-7.0.jar;C:/Users/sebas/.m2/repository/com/sun/mail/javax.mail/1.5.0/javax.mail-1.5.0.jar;C:/Users/sebas/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/sebas/Documents/NetBeansProjects/lab1_2022/lab1_2022-ejb/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sebas/Documents/NetBeansProjects/lab1_2022/lab1_2022-ejb/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lab1_2022-ejb 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/sebas/Documents/NetBeansProjects/lab1_2022/lab1_2022-ejb/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'lab1_2022-ejb 1.0.0 API'
+com.udea
+'C:/Users/sebas/Documents/NetBeansProjects/lab1_2022/lab1_2022-ejb/src/main/java/com/udea/NewSessionBean.java'
+C:\Users\sebas\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.antlr\2.7.0\org.eclipse.persistence.antlr-2.7.0.jar = 1655868506756
+C:\Users\sebas\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.asm\2.7.0\org.eclipse.persistence.asm-2.7.0.jar = 1655868507062
+C:\Users\sebas\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.core\2.7.0\org.eclipse.persistence.core-2.7.0.jar = 1655868516057
+C:\Users\sebas\.m2\repository\org\glassfish\javax.json\1.0.4\javax.json-1.0.4.jar = 1655868506598
+C:\Users\sebas\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.dbws\2.7.0\org.eclipse.persistence.dbws-2.7.0.jar = 1655868506672
+C:\Users\sebas\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa\2.7.0\org.eclipse.persistence.jpa-2.7.0.jar = 1655868508252
+C:\Users\sebas\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.jpql\2.7.0\org.eclipse.persistence.jpa.jpql-2.7.0.jar = 1655868509361
+C:\Users\sebas\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.modelgen.processor\2.7.0\org.eclipse.persistence.jpa.modelgen.processor-2.7.0.jar = 1655868507208
+C:\Users\sebas\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.moxy\2.7.0\org.eclipse.persistence.moxy-2.7.0.jar = 1655868509026
+C:\Users\sebas\.m2\repository\javax\validation\validation-api\1.1.0.Final\validation-api-1.1.0.Final.jar = 1655868507525
+C:\Users\sebas\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.oracle\2.7.0\org.eclipse.persistence.oracle-2.7.0.jar = 1655868507831
+C:\Users\sebas\.m2\repository\org\eclipse\persistence\javax.persistence\2.2.0\javax.persistence-2.2.0.jar = 1655868508282
+C:\Users\sebas\.m2\repository\javax\javaee-api\7.0\javaee-api-7.0.jar = 1655868512602
+C:\Users\sebas\.m2\repository\com\sun\mail\javax.mail\1.5.0\javax.mail-1.5.0.jar = 1655868509381
+C:\Users\sebas\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar = 1655868509290
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\src\main\java = 1655935668278
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\target\apidocs\allclasses-frame.html = 1655936966601
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\target\apidocs\allclasses-noframe.html = 1655936966602
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\target\apidocs\constant-values.html = 1655936966558
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\target\apidocs\deprecated-list.html = 1655936966599
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\target\apidocs\help-doc.html = 1655936966610
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\target\apidocs\index-all.html = 1655936966595
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\target\apidocs\index.html = 1655936966605
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\target\apidocs\overview-tree.html = 1655936966591
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\target\apidocs\package-list = 1655936966531
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\target\apidocs\script.js = 1655936966611
+C:\Users\sebas\Documents\NetBeansProjects\lab1_2022\lab1_2022-ejb\target\apidocs\stylesheet.css = 1655935810257
