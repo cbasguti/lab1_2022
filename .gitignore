@@ -1,4 +1,3 @@
-.classpath
-.project
-.settings/
-target/
+lab1_2022-ear\target
+lab1_2022-ejb\target
+lab1_2022-web\target
